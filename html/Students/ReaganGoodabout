@@ -7,8 +7,8 @@
 	</style>
 	<body>
 		
-		<h1 style="color:white;border:4px solid darkred">
-			----------->  Reagan J. Good <-------------
+		<h1 style="color:white;border:4px solid cornflowerblue">
+			Reagan Good
 			</h1>
 		<p style="color:white">
 			Currently a highschool senior at The Ambrose School, Reagan 
@@ -19,7 +19,7 @@
 			in his next four years of college education. To learn more about 
 			The Ambrsoe School please see the following link.
 			<br> <br>
-			<a style="color:lightblue" href="http://theambroseschool.org">The Ambrose School.</a></p>
+			<a style="color:cornflowerblue" href="http://theambroseschool.org">The Ambrose School.</a></p>
 		<h2 style="color:white">Education</h2>
 		<ul>
 			<li style="color:white">The Ambrose School, Meridian Idaho</li>
@@ -36,8 +36,8 @@
 		</ul>
 		<br/>
 		<div>
-			<a href="../students/KensingtonWatts.html">Previous</a>
-			<a href="../students/KaitlyCicero.html">Next</a>
+			<a style="color:cornflowerblue" href="../students/KensingtonWatts.html">Previous</a>
+			<a style="color:cornflowerblue" href="../students/KaitlyCicero.html">Next</a>
 		</div>
 	</body>
 </html>
