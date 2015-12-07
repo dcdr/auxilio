@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<h1>Jack Roser</h1>
+		<p>I enjoy Learning new things and exploring the outdoors. 
+		I also like adventure and thrill</a></p>
+		<h2>Education</h2>
+		<ul>
+			<li>The Ambrose School</li>
+		</ul>
+		<h2>Interests</h2>
+		<ul>
+			<li>Outdoors</li>
+			<li>Call of Duty</li>
+			<li>Fishing</li>
+			<li>Hunting</li>
+			<li>Backpacking</li>
+		</ul>
+		<br/>
+		<div>
+			<li><a href="students/GrahamRichmond.html">Graham Richmond</a></li>
+			<li><a href="students/AlexanderStark.html">Alexander Stark</a></li>
+		</div>
+	</body>
+</html>
